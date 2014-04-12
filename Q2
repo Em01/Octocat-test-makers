@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+Upstream works with the theory of sending something upstream as opposed to downstream. It is the name for the main repository (replacing the original remote) where you are pulling from and also keeps a clone of your fork updated. You do not have to push in order to gain access to it. After cloning has taken place it is useful in order to keep track of the original remote repository. 
