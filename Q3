@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+A branch is a solely independent line of development. Any commits will be recorded within the history of the current branch this results in a fork in the history of the project. 
+
+Typing git branch to the command line will give a list of all available branches and an asterisk will be next to the current branch you are in.
